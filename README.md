@@ -5,6 +5,7 @@
 
 Proyecto desarrollado para el laboratorio de evaluación de **TalentoTech**, implementando un sistema web completo de registro, inicio de sesión, asignación colaborativa, control de estados, cálculo de tiempos con Redis, tablero Kanban con arrastrar y soltar (Drag & Drop) y auditoría de tareas entre usuarios.
 
+![alt text](image-1.png)
 ---
 
 ## 📊 Estado del Reto hasta el Momento
